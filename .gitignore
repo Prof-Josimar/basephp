@@ -1,5 +1,6 @@
 # Ignorar dependências do Composer
-/vendor/
+**/vendor/
+
 
 # Ignorar arquivos de configuração locais
 /.env
