@@ -5,7 +5,7 @@ set "project_name=Projeto PHP Aulas 2026 - %date% %time%"
 set "author=Josimar Ribeiro"
 set "filename=README.md"
 set "date_time=%DATE% %TIME%"
-set "logo_url=https://github.com/Prof-Josimar/crud_php_poo_2026/blob/main/public/imagens/logo.png"
+set "logo_url=https://github.com/Prof-Josimar/basephp/blob/main/aula5/public/imagens/logo.png"
 
 REM === Cria o README.md ===
 echo # %project_name% > %filename%
