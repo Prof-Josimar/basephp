@@ -1,0 +1,24 @@
+# Ignorar dependências do Composer
+/vendor/
+
+# Ignorar arquivos de configuração locais
+/.env
+/.env.local
+/.env.*.local
+
+# Ignorar cache e logs
+/storage/
+bootstrap/cache/
+*.log
+
+# Ignorar arquivos do PHPUnit
+.phpunit.result.cache
+
+# Ignorar IDEs e editores
+/.idea/
+/.vscode/
+*.swp
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
