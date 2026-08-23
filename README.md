@@ -1,7 +1,7 @@
-# Projeto PHP Aulas 2026 - 23/08/2026 19:50:49,65 
+# Projeto PHP Aulas 2026 - 23/08/2026 19:53:13,15 
  
 ## Informações do sistema 
-- Data e hora: 23/08/2026 19:50:49,65 
+- Data e hora: 23/08/2026 19:53:13,15 
 - Usuário: admin 
 - Computador: ACER-LAP 
 - Diretório atual: C:\dev\php\basephp 
@@ -10,7 +10,7 @@
 <img src="https://github.com/Prof-Josimar/basephp/blob/main/aula5/public/imagens/logo.png" width="300"> 
  
  M README.md
-?? utils/
+ M utils/init4.cmd
  
  
 ## Autor 

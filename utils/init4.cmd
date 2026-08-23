@@ -2,6 +2,14 @@
 
 cls
 color 4f
+REM Verifica se foi passado o parâmetro /run
+if "%~1" neq "/run" (
+    echo Uso incorreto! Execute assim:
+    echo init4.cmd /run
+    exit /b
+)
+
+
 
 chcp 65001 >nul
 echo ============================================
