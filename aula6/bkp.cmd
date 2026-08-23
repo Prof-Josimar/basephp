@@ -6,7 +6,7 @@ echo Caminho completo: %cd%
 
 :: Pega apenas o nome da pasta atual
 for %%i in ("%cd%") do set "pasta=%%~nxi"
-echo Última pasta: %pasta%
+echo �ltima pasta: %pasta%
 
 if not exist \temp mkdir \temp
 start winrar a -afzip -r -ep1 \temp\%pasta%.zip *

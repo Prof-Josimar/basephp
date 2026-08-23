@@ -3,10 +3,10 @@ namespace App\Controller;
 
 class HomeController {
     public function index() {
-        // Define o fuso horário do Brasil
+        // Define o fuso hor�rio do Brasil
         date_default_timezone_set('America/Sao_Paulo');
 
-        // Define locale para português do Brasil
+        // Define locale para portugu�s do Brasil
         setlocale(LC_TIME, 'pt_BR.UTF-8', 'pt_BR', 'portuguese');
 
         $dataHora = date("d/m/Y H:i:s");
